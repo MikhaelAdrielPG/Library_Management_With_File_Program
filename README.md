@@ -1,2 +1,1 @@
-# Program_Manajemen_Perpustakaan
 # Program_Manajemen_Perpustakaan_Dengan_Penyimpanan_Data_Ke_File
